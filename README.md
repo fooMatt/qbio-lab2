@@ -2,6 +2,7 @@
 Figures and data relevant to my Lab 2 internship
 
 ## Trajectories of free MD with different force fields
+PTP domain is in light pink, PDZ domain is in yellow. Intrinsically disordered linker and termini regions are in red for CHARMM36m force field, blue for a99SB-disp force field, and green for a99SBws force field.
 ![CHARMM36m](animated-gifs/charmm-free.gif)
 <u>CHARMM36m with mTIP3P water</u>
 ![disp](animated-gifs/disp-free.gif)
