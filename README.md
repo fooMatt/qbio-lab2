@@ -20,6 +20,7 @@ a99SB-disp with disp water
 a99SBws with TIP4P2005s water
 
 ## Trajectories of multi-replica SAXS-driven MD
+PTP domain is in light pink, PDZ domain is in yellow. Important residues for phosphatase activity are in magenta. Intrinsically disordered linker and termini regions are in red for CHARMM36m force field, blue for a99SB-disp force field, and green for a99SBws force field.
 ![Replica 0](animated-gifs/rep0.gif)
 Replica 0
 ![Replica 1](animated-gifs/rep1.gif)
